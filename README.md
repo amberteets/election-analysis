@@ -18,7 +18,7 @@ In order to complete the audit of a recent election, the Colorado Board of Elect
 
 2 - 4. The following candidates received votes:
    - Charles Casper Stockham: 23.0% (85,213 votes)
-   - Diana DeGette: 73.8% (272,892 votes)
+   - **Diana DeGette: 73.8% (272,892 votes)**
    - Raymon Anthony Doane: 3.1% (11,606 votes)
    
 5. **Diana DeGette** was the winner of the election with 73.8% of the popular vote. 
