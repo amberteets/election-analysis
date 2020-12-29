@@ -23,3 +23,6 @@ In order to complete the audit of a recent election, the Colorado Board of Elect
    
 5. **Diana DeGette** was the winner of the election with 73.8% of the popular vote. 
 
+## Challenge Overview
+
+## Challenge Summary
