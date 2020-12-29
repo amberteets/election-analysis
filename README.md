@@ -21,5 +21,5 @@ In order to complete the audit of a recent election, the Colorado Board of Elect
    - Diana DeGette: 73.8% (272,892 votes)
    - Raymon Anthony Doane: 3.1% (11,606 votes)
    
-5. Diana DeGette was the winner of the election with 73.8% of the popular vote. 
+5. **Diana DeGette** was the winner of the election with 73.8% of the popular vote. 
 
