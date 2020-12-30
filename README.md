@@ -10,18 +10,12 @@ In order to complete the audit of a recent election, the Colorado Board of Elect
 - The county with the highest voter turnout.
 
 ## Resources Used
+
 - Data: election_results.csv
 - Python (3.9.1)
 - VS Code (1.52.1)
 
 ## Election Audit Results
-(Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
-
-How many votes were cast in this congressional election?
-Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
-Which county had the largest number of votes?
-Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
-Which candidate won the election, what was their vote count, and what was their percentage of the total votes?)
 
 - The analysis yielded a total vote count for the election of 369,711 votes cast.
 - The number of votes and the percentage of total votes for each county in the precinct were as follows:
@@ -36,4 +30,5 @@ Which candidate won the election, what was their vote count, and what was their 
 - **Diana DeGette** was the winner of the election with 73.8% of the popular vote (272,892 votes). 
 
 ## Election Audit Summary
-(In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.)
+
+The script used to conduct this election audit is versatile and can be used (with minor modifications) for any election. The script is agnostic as to the number of candidates and the number of voting districts (e.g. counties, states, etc.), so it will work for elections of any scale, with any number of candidates who receive votes.
