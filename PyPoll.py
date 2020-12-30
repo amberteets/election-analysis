@@ -159,9 +159,7 @@ with open(file_to_load) as election_data:
         # County Turnout Summary
         county_turnout_summary = (
             f"---------------------------\n"
-            f"County with Highest Turnout: {highest_turnout_county}\n"
-            f"Highest Vote Count: {highest_turnout:,}\n"
-            f"Percentage of Total Votes from {highest_turnout_county}: {highest_turnout_percentage:.1f}%\n"
+            f"Largest County Turnout: {highest_turnout_county}\n"
             f"---------------------------\n"
         )
         print(county_turnout_summary)
