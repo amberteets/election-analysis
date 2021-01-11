@@ -13,7 +13,7 @@ In order to complete the audit of a recent election, the Colorado Board of Elect
 
 - Data: election_results.csv
 - Python (3.9.1)
-- VS Code (1.52.1)
+- Jupyter Notebook
 
 ## Election Audit Results
 
@@ -32,3 +32,5 @@ In order to complete the audit of a recent election, the Colorado Board of Elect
 ## Election Audit Summary
 
 The script used to conduct this election audit is versatile and can be used (with minor modifications) for any election. The script is agnostic as to the number of candidates and the number of voting districts (e.g. counties, states, etc.), so it will work for elections of any scale, with any number of candidates who receive votes.
+
+For example, a simple modification of the code `file_to_load = os.path.join("Resources", "election_results.csv")` by replacing `"Resources", "election_results.csv"` with the path to a different set of election data enables users to calculcate election results for any election, provided the columns are structured in the same way. If the column structure is different, updating the `candidate_name = row[i]` with the appropriate `i` value will fix the issue. Modifications can be made in that same pattern to fine-tune the analysis to a user's specific needs.
